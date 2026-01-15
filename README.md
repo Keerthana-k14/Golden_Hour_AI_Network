@@ -1,5 +1,3 @@
-# Golden_Hour_AI_Network
-Multi-agent emergency coordination system using trust-based AI agents
 # Golden AI Network 🚑🤖
 
 A prototype demonstrating **multi-agent collaboration** for emergency incident handling.
